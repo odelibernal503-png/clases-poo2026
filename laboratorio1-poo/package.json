@@ -1,9 +1,0 @@
-{
-  "name": "lab-poo-1",
-  "version": "1.0.0",
-  "description": "Laboratorio Practico POO 1",
-  "main": "index.ts",
-  "scripts": {
-    "start": "ts-node index.ts"
-  }
-}
